@@ -95,7 +95,7 @@
                         <p class="lead">
                             <span class="strong-text">Pertanian : </span> <br> Padi <br> Jagung </p>
                         <p class="lead">
-                            <span class="strong-text">Perkebunan : </span> <br> Kopi <br> Durian <br> Kakao <br> kapulaga
+                            <span class="strong-text">Perkebunan : </span> <br> Kopi <br> Durian <br> Kakao <br> kapulaga <br> Cengkeh 
                         
                         </p>
                         <h3 class="text-md">Perternakan</h3>
