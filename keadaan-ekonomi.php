@@ -101,6 +101,7 @@
                         <h3 class="text-md">Perternakan</h3>
                         <div class="divider my-4"></div>
                         <p class="lead">
+                            <span class="strong-text">Peternakan : </span> <br> Peternakan Sapi <br> Peternakan Ayam petelur
                             
                         </p>
                         <h3 class="text-md">Perikanan</h3>
