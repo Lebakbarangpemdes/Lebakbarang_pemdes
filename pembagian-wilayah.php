@@ -148,7 +148,7 @@
                         </div>
                         <p>Desa Leabakbarang<br> Kecamatan Lebakbarang <br> Kabupaten Pekalongan <br> Provinsi Jawa Tengah</p>
                         <ul class="list-inline footer-socials mt-4">
-                            <li class="list-inline-item"><a href="https://www.facebook.com/"><i class="icofont-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=61564661145865&mibextid=ZbWKwL"><i class="icofont-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="pengaduan.html"><i class="icofont-email"></i></a></li>
                         </ul>
                     </div>
